@@ -1,0 +1,2 @@
+[09-Jan-2014 09:55:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/nchavez/public_html/api/classes/Authenticator.php:86) in /home3/nchavez/public_html/api/index.php on line 76
+[09-Jan-2014 09:55:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/nchavez/public_html/api/classes/Authenticator.php:86) in /home3/nchavez/public_html/api/classes/ResponseJson.php on line 15
